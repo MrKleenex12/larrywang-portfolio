@@ -21,13 +21,14 @@ I'm also interested in exploring the [Odin Project Paths](https://www.theodinpro
 
 Each section starts on a **Monday** and should be completed by **Sunday night**. This helps me stay on pace and accountable.
 
-### Week of May 26, 2025
+### Week of June 2nd, 2025
 
-| Task                        | Start Date | Status       |
-|-----------------------------|------------|--------------|
-| fcc-FSD: Forms and Tables   | 5/20/25    | ⚠️ Behind     |
-| fcc-FSD: Accessibility      | 5/26/25    | 🟡 In Progress |
-| Comm 244: Week 2            | 5/26/25    | 🟡 In Progress |
+| Task                          | Start Date | Status      |
+| ----------------------------- | ---------- | ----------- |
+| fcc-FSD: HTML - Accessibility | 5/26/25    | Behind      |
+| fcc-FSD: CSS - Basic CSS      | 6/02/25    | Not Started |
+| Comm 244: Week 2              | 5/26/25    | Behind      |
+| Comm 244: Week 3              | 6/02/25    | Not Started |
 
 > *I will update this table as I make progress._
 
