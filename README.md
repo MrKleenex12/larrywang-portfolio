@@ -2,6 +2,8 @@
 
 This is the repository for my personal website, containing everything about me. I want to be able to showcase all of it in a single place. This site is part of my journey toward becoming skilled in Full-Stack development. I chose to build it while learning the fundamentals of HTML, CSS, and JavaScript.
 
+**I am currently taking a pause in learning front-end to learn JavaScript and PHP.**
+
 I’m also using this README to keep track of my learning progress — both for myself and for anyone who might find it helpful. Once the website is finished, I plan to host it on GitHub Pages.
 
 ---
@@ -12,6 +14,8 @@ I’m currently following these learning paths:
 
 - [freeCodeCamp Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/) (fcc-FSD) — started 4/12/25
 - [Comm 244](http://web.simmons.edu/~grovesd/comm244/): *Design for the World Wide Web* — started 5/20/25
+- [W3Schools](https://www.w3schools.com/js/default.asp): JavaScript Tutorial - W3Schools
+- [W3Schools](https://www.w3schools.com/php/default.asp): PHP Tutorial - W3Schools
 
 I'm also interested in exploring the [Odin Project Paths](https://www.theodinproject.com/paths). Once I complete fcc-FSD and Comm 244, I plan to continue with either the Ruby on Rails or JavaScript path.
 
